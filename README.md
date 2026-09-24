@@ -32,7 +32,7 @@
 | 回测记录 | ✅ 总期 113 天（2026-06-01→09-21），样本外 30-35 天（08-18→09-16/21） | 满足 ≥60d / ≥30d 要求 |
 | 策略代码 | ✅ `playbook/rtoken-breakout-lab/` + 仓库全部脚本 | GitHub 公开可访问 |
 | 大模型作用 | ✅ 策略开发辅助（代码生成、参数探索、文档撰写） | 模型：Claude + Qwen（开发环境），非运行时依赖 |
-| X 传播帖 | ⚠️ 待发布 | 须含 `#BitgetHackathon` + `@Bitget_AI` + 转发官方帖 |
+| X 传播帖 | ✅ 已发布 | [X帖子](https://x.com/AmeyuriNeko/status/2103011375459262510) |
 | Paper Trading | ✅ Studio 已启动，4h 调度自动运行 | 持续累积赛期 paper 证据 |
 | 目标用户 | Retail 散户，资金 ≤$30k，低频（每周 2-4 次），rToken 现货市场，偏好趋势跟随而非日内高频 | 非「所有 trader」 |
 
